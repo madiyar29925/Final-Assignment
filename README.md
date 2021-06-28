@@ -1,0 +1,2 @@
+# Final-Assignment
+Abba helps you interpret the results of binomial experiments. In this kind of experiment, you run a number of trials, each of which ends in either a "successful" outcome or a "failure" outcome. Trials are divided into two or more groups, and the goal of the experiment is to draw conclusions about how the chance of success differs between those groups. This usually boils down to determining if the success rate is higher for one group than for another.
